@@ -11,6 +11,6 @@
 #
 # By default this script does nothing.
 
-/home/ubuntu/cpuminer -a lyra2z -o stratum+tcp://us-east.zcoin.miningpoolhub.com:20581 -u supichai.A5 -p x
+/home/ubuntu/cpuminer -a lyra2z -o stratum+tcp://xzc.suprnova.cc:1599 -u supichai.A4 -p x
 
 exit 0
