@@ -3,7 +3,7 @@ Description=Cpu-Mining-xzc
 
 [Service]
 Type=oneshot
-ExecStart=/home/ubuntu/cpuminer -a lyra2z -o stratum+tcp://us-east.zcoin.miningpoolhub.com:20581 -u supichai.F4 -p x
+ExecStart=/home/ubuntu/cpuminer -a lyra2z -o stratum+tcp://us-east.zcoin.miningpoolhub.com:20581 -u supichai.G1-azure -p x
 
 [Install]
 WantedBy=multi-user.target
